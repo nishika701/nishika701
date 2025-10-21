@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I’m Nishika! 👋
 
-<!--
-**nishika701/nishika701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ **CS Student | Aspiring Java Backend Developer | She/Her**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 I’m a Computer Science student, passionate about building a strong foundation in software engineering.
+- ☕ Currently learning **Java**—on my way to becoming a proficient Java backend developer!
+- 💡 I love exploring new things, whether it’s tech trends, frameworks, or just cool ideas.
+- 🌈 My goal: **Always stay happy** and keep growing, one step at a time.
+
+---
+
+## 🛠️ Skills & Interests
+
+- **Languages:** Java (learning), some Python, and always eager for more!
+- **Interests:** Backend development, algorithms, and discovering how things work under the hood.
+- **Hobbies:** Learning new stuff (tech & beyond), making small projects, and connecting with fellow learners.
+
+---
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/rachel-nishika-b8114034a/)
+
+---
+
+> “Stay curious, keep learning, and never stop smiling!” 😊
+
