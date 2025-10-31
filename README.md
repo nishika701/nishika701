@@ -1,6 +1,6 @@
 # Hi there, I’m P Rachel Nishika! 👋
 
-✨ **CS Student | Aspiring Java Backend Developer | She/Her**
+✨ **CS Student | Aspiring MERN Developer | She/Her**
 
 ---
 
@@ -24,6 +24,12 @@
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/rachel-nishika-b8114034a/)
+
+---
+
+## 🌟Recent badges
+
+[![An image of @nishika701's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nishika701)](https://holopin.io/@nishika701)
 
 ---
 
