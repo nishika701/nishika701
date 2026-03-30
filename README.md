@@ -1,6 +1,6 @@
 # Hi there, I’m P Rachel Nishika! 👋
 
-✨ **CS Student | Aspiring MERN Developer | She/Her**
+✨ **CS Student | Aspiring Backend Developer | She/Her**
 
 ---
 
