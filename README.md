@@ -6,10 +6,9 @@
 
 ## 🚀 About Me
 
-- 🎓 I’m a Computer Science student, passionate about building a strong foundation in software engineering.
-- ☕ Currently learning **Java**—on my way to becoming a proficient Java backend developer!
-- 💡 I love exploring new things, whether it’s tech trends, frameworks, or just cool ideas.
-- 🌈 My goal: **Always stay happy** and keep growing, one step at a time.
+- I’m a Computer Science student, passionate about building a strong foundation in software engineering.
+- Currently learning **Java**—on my way to becoming a proficient Java backend developer!
+- I love exploring new things, whether it’s tech trends, frameworks, or just cool ideas.
 
 ---
 
