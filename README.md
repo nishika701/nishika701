@@ -1,10 +1,10 @@
-# Hi there, I’m P Rachel Nishika! 👋
+# Hi there, I’m P Rachel Nishika! 
 
-✨ **CS Student | Aspiring Backend Developer | She/Her**
+ **CS Student | Aspiring Backend Developer | She/Her**
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - I’m a Computer Science student, passionate about building a strong foundation in software engineering.
 - Currently learning **Java**—on my way to becoming a proficient Java backend developer!
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Skills & Interests
+## Skills & Interests
 
 - **Languages:** Java (learning), some Python, and always eager for more!
 - **Interests:** Backend development, algorithms, and discovering how things work under the hood.
@@ -20,17 +20,16 @@
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/rachel-nishika-b8114034a/)
 
 ---
 
-## 🌟Recent badges
+## Recent badges
 
 [![An image of @nishika701's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nishika701)](https://holopin.io/@nishika701)
 
 ---
 
-> “Stay curious, keep learning, and never stop smiling!” 😊
 
