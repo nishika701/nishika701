@@ -1,4 +1,4 @@
-# Hi there, I’m P Rachel Nishika! 
+# Hi there, I’m Rachel Nishika! 
 
  **CS Student | Aspiring Backend Developer | She/Her**
 
